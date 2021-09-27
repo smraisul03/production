@@ -22,4 +22,4 @@ Developed a clock in Java that can tell the 24 hours time, along with real time 
 
 ### [simplePainter](https://github.com/smraisul03/simplePainter)  
 
-Developed a paint program in Python that can allow user to paint, save, quit, and draw, with a variety of options to their liking through various colors. 
+Developed a paint program in Python that can allow users to paint, save, quit, and draw, with a variety of options to their liking through various colors. 
